@@ -1,4 +1,4 @@
-name: Deploy React Vite ke VPS
+name: Deploy React Vite portfolio ke VPS
 
 on:
   push:
