@@ -26,19 +26,22 @@ export function Section1View() {
               className="w-100 h-100 object-cover"
             />
           </div>
-          <h1>
+          
+          <div className="d-flex align-items-center justify-content-center gap-2 mt-3">
             <img
               src="https://flagcdn.com/w40/id.png"
-              style={{ width: "24px", verticalAlign: "middle" }}
-              alt="ID"
+              style={{ width: "24px", height: "auto" }}
+              alt="Bendera Indonesia"
             />
-            Irvan Al Rasyid
+
+            <h1 className="m-0">Irvan Al Rasyid</h1>
+
             <img
               src="https://flagcdn.com/w40/id.png"
-              style={{ width: "24px", verticalAlign: "middle" }}
-              alt="ID"
+              style={{ width: "24px", height: "auto" }}
+              alt="Bendera Indonesia"
             />
-          </h1>
+          </div>
 
           <div className="container-p">
             <p>
