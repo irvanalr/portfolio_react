@@ -26,7 +26,7 @@ export function Section1View() {
               className="w-100 h-100 object-cover"
             />
           </div>
-          
+
           <div className="d-flex align-items-center justify-content-center gap-2 mt-3">
             <img
               src="https://flagcdn.com/w40/id.png"
@@ -34,7 +34,7 @@ export function Section1View() {
               alt="Bendera Indonesia"
             />
 
-            <h1 className="m-0">Irvan Al Rasyid</h1>
+            <h1 className="m-0">Irvan Al Rasyids</h1>
 
             <img
               src="https://flagcdn.com/w40/id.png"
